@@ -41,7 +41,7 @@
                   "type": 1,
                   "image":{
                     "url": "",
-                    "radius": [0,0,0,0] 
+                    "radius": [0,0,0,0], 
                     "scale" : 2,
                     "action": { 
                       "type":"0",
@@ -49,18 +49,19 @@
                       "content":"https://www.google.com"
                     }
                   },
-                  {
+                  
                   "type": "0",  
                   "image":{
                     "url": "",  
-                    "radius": [0,0,0,0] 
+                    "radius": [0,0,0,0], 
                     "scale" : 2,
                     "action": {  
                       "type":"0", 
                       "index":"26",
                       "content":"my voucher page"
                     }
-                  }
+                     }   
+                    }
               ],
               "search_placeholder": [
                   "xxxxxxx", 
@@ -68,13 +69,13 @@
               ],
               "search_action":{
                     "url": "",
-                    "radius": [0,0,0,0] 
+                    "radius": [0,0,0,0], 
                     "scale" : 2,
                     "action": { 
                       "type":"0",  
                       "index":"79",
                       "content":"open scan page"
-                    }},
+                    }}
           },
       "home_page_components": [
         {
@@ -127,13 +128,13 @@
                 "style": "textStyleGrey5_H1",
                 "color": "#ff000000", 
                 "bg_color": "#ff000000",
-                "lines": 2
+                "lines": 2,
                 "content":"abc",
                 "action":{
                   "type":"0", 
                   "index":"19",
                   "content":"https://www.google.com"
-                },
+                }
               
               },
               "description": {
@@ -156,8 +157,8 @@
               "icon": "",
               "image": {
                 "url": "",
-                "radius": [1,2,3,4] 
-                "scale": "2" 
+                "radius": [1,2,3,4], 
+                "scale": "2",
                 "action": {
                   "type":"0", 
                   "index":"19",
@@ -165,7 +166,7 @@
                 }
               }
             }
-          ],
+          ]
       
         }
       ]
