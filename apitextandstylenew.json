@@ -16,8 +16,8 @@
                 "font_family":"normal",
                 "padding":[0,0,0,0],
                 "lines": 1,
-                "action":{ //
-                  "type":"0",  //0: Jump to the page 1: Pop-up prompt, there is only one close button
+                "action":{ 
+                  "type":"0",  
                   "index":"23",
                   "content":"dollars page"
                   }
@@ -31,7 +31,7 @@
                 "padding":[0,0,0,0],
                 "lines": 1,
                 "action":{
-                  "type":"0",  //0: Jump to the page 1: Pop-up prompt, there is only one close button
+                  "type":"1", 
                   "index":"23",
                   "content":"https://www.google.com"
                   }
@@ -44,7 +44,7 @@
                     "radius": [0,0,0,0] 
                     "scale" : 2,
                     "action": { 
-                      "type":"0",  //0: Jump to the page 1: Pop-up prompt, there is only one close button
+                      "type":"0",
                       "index":"19",
                       "content":"https://www.google.com"
                     }
@@ -56,14 +56,14 @@
                     "radius": [0,0,0,0] 
                     "scale" : 2,
                     "action": {  
-                      "type":"0",  //0: Jump to the page 1: Pop-up prompt, there is only one close button
+                      "type":"0", 
                       "index":"26",
                       "content":"my voucher page"
                     }
                   }
               ],
               "search_placeholder": [
-                  "xxxxxxx", //keyword
+                  "xxxxxxx", 
                   "yyyyyyyy"
               ],
               "search_action":{
@@ -71,7 +71,7 @@
                     "radius": [0,0,0,0] 
                     "scale" : 2,
                     "action": { 
-                      "type":"0",  //0: Jump to the page 1: Pop-up prompt, there is only one close button
+                      "type":"0",  
                       "index":"79",
                       "content":"open scan page"
                     }},
@@ -87,7 +87,7 @@
                 "lines": 2
               },
               "action":{
-                 "type":"0",  //0: Jump to the page 1: Pop-up prompt, there is only one close button
+                 "type":"0", 
                  "index":"19",
                  "content":"https://www.google.com"
               },
@@ -101,7 +101,7 @@
                 "lines": 2
               },
               "action":{
-                 "type":"0",  //0: Jump to the page 1: Pop-up prompt, there is only one close button
+                 "type":"0",  
                  "index":"19",
                  "content":"https://www.google.com"
               },
@@ -115,7 +115,7 @@
                 "lines": 2
               },
               "action":{ 
-                 "type":"0",  //0: Jump to the page 1: Pop-up prompt, there is only one close button
+                 "type":"0", 
                  "index":"19",
                  "content":"https://www.google.com"
               },
@@ -130,7 +130,7 @@
                 "lines": 2
                 "content":"abc",
                 "action":{
-                  "type":"0",  //0: Jump to the page 1: Pop-up prompt, there is only one close button
+                  "type":"0", 
                   "index":"19",
                   "content":"https://www.google.com"
                 },
@@ -144,7 +144,7 @@
                   "lines": 2
                 },
                 "action":{
-                  "type":"0",  //0: Jump to the page 1: Pop-up prompt, there is only one close button
+                  "type":"0", 
                   "index":"19",
                   "content":"https://www.google.com"
                 },
@@ -156,10 +156,10 @@
               "icon": "",
               "image": {
                 "url": "",
-                "radius": [1,2,3,4] //radius，
+                "radius": [1,2,3,4] 
                 "scale": "2" 
                 "action": {
-                  "type":"0",  //0: Jump to the page 1: Pop-up prompt, there is only one close button
+                  "type":"0", 
                   "index":"19",
                   "content":"https://www.google.com"
                 }
