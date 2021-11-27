@@ -1,0 +1,173 @@
+{
+    "CODE": "A120",
+    "MESSAGE": "Success!",
+    "DATA": {
+      "general_config": [],
+      "header": {
+              "banner_list" : [
+                "url1","url2","url3"
+              ],
+              "banner_bg_color": "#FFCF01",
+              "title":{
+                "content":"Hi Devi Vishwakumar",
+                "style": "textStyleGrey1_H1",
+                "color": "#ffffffff", 
+                "text_size":14,
+                "font_family":normal,
+                "padding":[0,0,0,0],
+                "lines": 1,
+                "action":{ //
+                  "type":'0',  //0: Jump to the page 1: Pop-up prompt, there is only one close button
+                  "index":'23',
+                  "content":'dollars page'
+                  }
+              },
+              "sub_title":{
+                "content":"Platinum, 1000 C$",
+                "style": "textStyleGrey1_H3",
+                "color": "#ffffffff", 
+                "text_size":14,
+                "font_family":normal,
+                "padding":[0,0,0,0],
+                "lines": 1,
+                "action":{
+                  "type":'0',  //0: Jump to the page 1: Pop-up prompt, there is only one close button
+                  "index":'23',
+                  "content":'dollars page'
+                  }
+              },
+              "actions":[
+                  {
+                  "type": 1,
+                  "image":{
+                    "url": "",
+                    "radius": [0,0,0,0] 
+                    "scale" : 2,
+                    "action": { 
+                      "type":'0',  //0: Jump to the page 1: Pop-up prompt, there is only one close button
+                      "index":'19',
+                      "content":'https://www.we.co'
+                    }
+                  },
+                  {
+                  "type": 0,  
+                  "image":{
+                    "url": "",  
+                    "radius": [0,0,0,0] 
+                    "scale" : 2,
+                    "action": {  
+                      "type":'0',  //0: Jump to the page 1: Pop-up prompt, there is only one close button
+                      "index":'26',
+                      "content":'my voucher page'
+                    }
+                  }
+              ],
+              "search_placeholder": [
+                  "xxxxxxx", //keyword
+                  "yyyyyyyy"
+              ],
+              "search_action":{
+                    "url": "",
+                    "radius": [0,0,0,0] 
+                    "scale" : 2,
+                    "action": { 
+                      "type":'0',  //0: Jump to the page 1: Pop-up prompt, there is only one close button
+                      "index":'79',
+                      "content":'open scan page'
+                    }},
+          },
+      "home_page_components": [
+        {
+          "type": "201",
+          "title": {
+              "font_style":{ 
+                "style": "textStyleGrey5_H1",
+                "color": "BrandPrimary", 
+                "bg_color": "BrandPrimary", 
+                "lines": 2
+              },
+              "action":{
+                 "type":'0',  //0: Jump to the page 1: Pop-up prompt, there is only one close button
+                 "index":'19',
+                 "content":'https://www.we.co'
+              },
+              "content":'abc'
+            },
+          "description": {
+              "font_style":{ 
+                "style": "textStyleGrey5_H1",
+                "color": "BrandPrimary", 
+                "bg_color": "BrandPrimary",
+                "lines": 2
+              },
+              "action":{
+                 "type":'0',  //0: Jump to the page 1: Pop-up prompt, there is only one close button
+                 "index":'19',
+                 "content":'https://www.we.co'
+              },
+              "content":'abc'
+            },
+          "see_more_message": {
+              "font_style":{ 
+                "style": "textStyleGrey5_H1",
+                "color": "BrandPrimary", 
+                "bg_color": "BrandPrimary", 
+                "lines": 2
+              },
+              "action":{ 
+                 "type":'0',  //0: Jump to the page 1: Pop-up prompt, there is only one close button
+                 "index":'19',
+                 "content":'https://www.we.co'
+              },
+              "content":'abc'
+            },
+          "collections": [
+            {
+              "title": {
+                "style": "textStyleGrey5_H1",
+                "color": "#ff000000", 
+                "bg_color": "#ff000000",
+                "lines": 2
+                "content":'abc',
+                "action":{
+                  "type":'0',  //0: Jump to the page 1: Pop-up prompt, there is only one close button
+                  "index":'19',
+                  "content":'https://www.we.co'
+                },
+              
+              },
+              "description": {
+                "font_style":{ 
+                  "style": "textStyleGrey5_H1",
+                  "color": "BrandPrimary", 
+                  "bg_color": "BrandPrimary", 
+                  "lines": 2
+                },
+                "action":{
+                  "type":'0',  //0: Jump to the page 1: Pop-up prompt, there is only one close button
+                  "index":'19',
+                  "content":'https://www.we.co'
+                },
+                "content":'abc'
+              },
+              "link": "",
+              "category_bar": "",
+              "tag": "",
+              "icon": "",
+              "image": {
+                "url": "",
+                "radius": [1,2,3,4] //radius，
+                "scale": "2" 
+                "action": {
+                  "type":'0',  //0: Jump to the page 1: Pop-up prompt, there is only one close button
+                  "index":'19',
+                  "content":'https://www.we.co'
+                }
+              }
+            }
+          ],
+      
+        }
+      ]
+    }
+  }
