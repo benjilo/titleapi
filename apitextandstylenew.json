@@ -13,7 +13,7 @@
                 "style": "textStyleGrey1_H1",
                 "color": "#ffffffff", 
                 "text_size":14,
-                "font_family":normal,
+                "font_family":"normal",
                 "padding":[0,0,0,0],
                 "lines": 1,
                 "action":{ //
@@ -27,7 +27,7 @@
                 "style": "textStyleGrey1_H3",
                 "color": "#ffffffff", 
                 "text_size":14,
-                "font_family":normal,
+                "font_family":"normal",
                 "padding":[0,0,0,0],
                 "lines": 1,
                 "action":{
