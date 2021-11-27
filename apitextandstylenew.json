@@ -5,11 +5,11 @@
       "general_config": [],
       "header": {
               "banner_list" : [
-                "url1","url2","url3"
+                "https://static.chope.co/uploads/2021/11/s-412x304x80xo_1637296048_39548.jpeg","url2","url3"
               ],
               "banner_bg_color": "#FFCF01",
               "title":{
-                "content":"Hi Devi Vishwakumar",
+                "content":"Hi Devi Vishwakumar B",
                 "style": "textStyleGrey1_H1",
                 "color": "#1212c4", 
                 "text_size":14,
@@ -126,8 +126,8 @@
             {
               "title": {
                 "style": "textStyleGrey5_H1",
-                "color": "#ff000000", 
-                "bg_color": "#ff000000",
+                "color": "#fffffffff", 
+                "bg_color": "#b05454",
                 "lines": 2,
                 "content":"abc",
                 "action":{
@@ -149,7 +149,7 @@
                   "index":"19",
                   "content":"https://www.google.com"
                 },
-                "content":"abc"
+                "content":"abc cp"
               },
               "link": "",
               "category_bar": "",
