@@ -17,9 +17,9 @@
                 "padding":[0,0,0,0],
                 "lines": 1,
                 "action":{ //
-                  "type":'0',  //0: Jump to the page 1: Pop-up prompt, there is only one close button
-                  "index":'23',
-                  "content":'dollars page'
+                  "type":"0",  //0: Jump to the page 1: Pop-up prompt, there is only one close button
+                  "index":"23",
+                  "content":"dollars page"
                   }
               },
               "sub_title":{
@@ -31,9 +31,9 @@
                 "padding":[0,0,0,0],
                 "lines": 1,
                 "action":{
-                  "type":'0',  //0: Jump to the page 1: Pop-up prompt, there is only one close button
-                  "index":'23',
-                  "content":'dollars page'
+                  "type":"0",  //0: Jump to the page 1: Pop-up prompt, there is only one close button
+                  "index":"23",
+                  "content":"https://www.google.com"
                   }
               },
               "actions":[
@@ -44,21 +44,21 @@
                     "radius": [0,0,0,0] 
                     "scale" : 2,
                     "action": { 
-                      "type":'0',  //0: Jump to the page 1: Pop-up prompt, there is only one close button
-                      "index":'19',
-                      "content":'https://www.we.co'
+                      "type":"0",  //0: Jump to the page 1: Pop-up prompt, there is only one close button
+                      "index":"19",
+                      "content":"https://www.google.com"
                     }
                   },
                   {
-                  "type": 0,  
+                  "type": "0",  
                   "image":{
                     "url": "",  
                     "radius": [0,0,0,0] 
                     "scale" : 2,
                     "action": {  
-                      "type":'0',  //0: Jump to the page 1: Pop-up prompt, there is only one close button
-                      "index":'26',
-                      "content":'my voucher page'
+                      "type":"0",  //0: Jump to the page 1: Pop-up prompt, there is only one close button
+                      "index":"26",
+                      "content":"my voucher page"
                     }
                   }
               ],
@@ -71,9 +71,9 @@
                     "radius": [0,0,0,0] 
                     "scale" : 2,
                     "action": { 
-                      "type":'0',  //0: Jump to the page 1: Pop-up prompt, there is only one close button
-                      "index":'79',
-                      "content":'open scan page'
+                      "type":"0",  //0: Jump to the page 1: Pop-up prompt, there is only one close button
+                      "index":"79",
+                      "content":"open scan page"
                     }},
           },
       "home_page_components": [
@@ -87,11 +87,11 @@
                 "lines": 2
               },
               "action":{
-                 "type":'0',  //0: Jump to the page 1: Pop-up prompt, there is only one close button
-                 "index":'19',
-                 "content":'https://www.we.co'
+                 "type":"0",  //0: Jump to the page 1: Pop-up prompt, there is only one close button
+                 "index":"19",
+                 "content":"https://www.google.com"
               },
-              "content":'abc'
+              "content":"abc"
             },
           "description": {
               "font_style":{ 
@@ -101,11 +101,11 @@
                 "lines": 2
               },
               "action":{
-                 "type":'0',  //0: Jump to the page 1: Pop-up prompt, there is only one close button
-                 "index":'19',
-                 "content":'https://www.we.co'
+                 "type":"0",  //0: Jump to the page 1: Pop-up prompt, there is only one close button
+                 "index":"19",
+                 "content":"https://www.google.com"
               },
-              "content":'abc'
+              "content":"abc"
             },
           "see_more_message": {
               "font_style":{ 
@@ -115,11 +115,11 @@
                 "lines": 2
               },
               "action":{ 
-                 "type":'0',  //0: Jump to the page 1: Pop-up prompt, there is only one close button
-                 "index":'19',
-                 "content":'https://www.we.co'
+                 "type":"0",  //0: Jump to the page 1: Pop-up prompt, there is only one close button
+                 "index":"19",
+                 "content":"https://www.google.com"
               },
-              "content":'abc'
+              "content":"abc"
             },
           "collections": [
             {
@@ -128,11 +128,11 @@
                 "color": "#ff000000", 
                 "bg_color": "#ff000000",
                 "lines": 2
-                "content":'abc',
+                "content":"abc",
                 "action":{
-                  "type":'0',  //0: Jump to the page 1: Pop-up prompt, there is only one close button
-                  "index":'19',
-                  "content":'https://www.we.co'
+                  "type":"0",  //0: Jump to the page 1: Pop-up prompt, there is only one close button
+                  "index":"19",
+                  "content":"https://www.google.com"
                 },
               
               },
@@ -144,11 +144,11 @@
                   "lines": 2
                 },
                 "action":{
-                  "type":'0',  //0: Jump to the page 1: Pop-up prompt, there is only one close button
-                  "index":'19',
-                  "content":'https://www.we.co'
+                  "type":"0",  //0: Jump to the page 1: Pop-up prompt, there is only one close button
+                  "index":"19",
+                  "content":"https://www.google.com"
                 },
-                "content":'abc'
+                "content":"abc"
               },
               "link": "",
               "category_bar": "",
@@ -159,9 +159,9 @@
                 "radius": [1,2,3,4] //radius，
                 "scale": "2" 
                 "action": {
-                  "type":'0',  //0: Jump to the page 1: Pop-up prompt, there is only one close button
-                  "index":'19',
-                  "content":'https://www.we.co'
+                  "type":"0",  //0: Jump to the page 1: Pop-up prompt, there is only one close button
+                  "index":"19",
+                  "content":"https://www.google.com"
                 }
               }
             }
