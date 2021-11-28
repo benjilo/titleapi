@@ -10,7 +10,7 @@
               "banner_bg_color": "#FFCF01",
               "title":{
                 "content":"Chope Text B",
-                "style": "",
+                "style": "textStyleGrey1_H1",
                 "color": "#e30828", 
                 "text_size":14,
                 "font_family":"normal",
@@ -24,7 +24,7 @@
               },
               "sub_title":{
                 "content":"Platinum, 1000 C$",
-                "style": "textStyleGrey1_H3",
+                "style": "",
                 "color": "#1212c4", 
                 "text_size":40,
                 "font_family":"normal",
