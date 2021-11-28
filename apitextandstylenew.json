@@ -10,7 +10,7 @@
               "banner_bg_color": "#FFCF01",
               "title":{
                 "content":"Chope Text B",
-                "style": "textStyleGrey1_H1",
+                "style": "",
                 "color": "#e30828", 
                 "text_size":14,
                 "font_family":"normal",
