@@ -83,7 +83,7 @@
           "title": {
               "font_style":{ 
                 "style": "textStyleGrey5_H1",
-                "color": "BrandPrimary", 
+                "color": "#1212c4", 
                 "bg_color": "BrandPrimary", 
                 "lines": 2
               },
@@ -97,7 +97,7 @@
           "description": {
               "font_style":{ 
                 "style": "textStyleGrey5_H1",
-                "color": "BrandPrimary", 
+                "color": "#1212c4", 
                 "bg_color": "BrandPrimary",
                 "lines": 2
               },
@@ -111,7 +111,7 @@
           "see_more_message": {
               "font_style":{ 
                 "style": "textStyleGrey5_H1",
-                "color": "BrandPrimary", 
+                "color": "#1212c4", 
                 "bg_color": "BrandPrimary", 
                 "lines": 2
               },
@@ -126,7 +126,7 @@
             {
               "title": {
                 "style": "textStyleGrey5_H1",
-                "color": "#fffffffff", 
+                "color": "#1212c4", 
                 "bg_color": "#b05454",
                 "lines": 2,
                 "content":"abc",
@@ -140,8 +140,8 @@
               "description": {
                 "font_style":{ 
                   "style": "textStyleGrey5_H1",
-                  "color": "BrandPrimary", 
-                  "bg_color": "BrandPrimary", 
+                  "color": "#1212c4", 
+                  "bg_color": "#ffffff", 
                   "lines": 2
                 },
                 "action":{
