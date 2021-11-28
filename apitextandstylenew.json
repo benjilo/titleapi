@@ -92,13 +92,14 @@
                  "index":"19",
                  "content":"https://www.google.com"
               },
-              "content":"abc"
+              "content":"abc B"
             },
           "description": {
               "font_style":{ 
                 "style": "textStyleGrey5_H1",
                 "color": "#1212c4", 
                 "bg_color": "BrandPrimary",
+                "text_size":40,
                 "lines": 2
               },
               "action":{
