@@ -24,7 +24,7 @@
               },
               "sub_title":{
                 "content":"Platinum, 1000 C$",
-                "style": "",
+                "style": "textStyleGrey1_H1",
                 "color": "#1212c4", 
                 "text_size":40,
                 "font_family":"normal",
