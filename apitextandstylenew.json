@@ -11,7 +11,7 @@
               "title":{
                 "content":"Chope Text B",
                 "style": "textStyleGrey1_H1",
-                "color": "", 
+                "color": "#08080f", 
                 "text_size":14,
                 "font_family":"normal",
                 "padding":[0,0,0,0],
