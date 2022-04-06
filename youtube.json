@@ -1,0 +1,27 @@
+{
+    "youtube":[
+        {
+            "heading": "Flutter tutorial for provider",
+            "subtitle": "learn more about state management",
+            "image": "https://images.unsplash.com/photo-1648737966326-eb0770cec304?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwxfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=900&q=60",
+            "video": "https://www.youtube.com/watch?v=t7n5fn_JVOc",
+            "date": "2-24-2022"
+        },
+
+        {
+            "heading": "Facebook Clone Flutter tutorial",
+            "subtitle": "learn more about flutter codin mastery",
+            "image": "https://images.unsplash.com/photo-1649239702611-ebee87c0e537?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1450&q=80",
+            "video": "https://www.youtube.com/watch?v=ab7Tb1mGhZo&t=313s",
+            "date": "8-31-2022"
+        }
+
+
+    ],
+    "channel":
+    {
+        "name": "Tech Now Tv",
+        "platform": "youtube app"
+
+    }
+}
